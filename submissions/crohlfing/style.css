@@ -3,11 +3,15 @@ h1 {
 
 }
 
-ol {
+p {
 
   color: red
 }
 ul {
   font-size: 22;
   color: blue
+}
+
+.headings {
+  font-size: 34
 }
