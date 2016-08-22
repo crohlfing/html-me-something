@@ -5,7 +5,7 @@ body {
 }
 
 main {
-  margin-left: 60
+  margin-left: 100;
   background-color: lightgreen;
   text-align: left;
   font-size: 20;
@@ -32,5 +32,5 @@ ul ul {
 .Heading {
   font-size: 44;
   font-weight: bold;
-  color: darkblue;
+  color: red;
 }
