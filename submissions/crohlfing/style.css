@@ -1,17 +1,34 @@
+body {
+  background-color: lightyellow;
+  font-family: papyrus;
+  text-align: center;
+}
+
+main {
+  background-color: lightgreen;
+  text-align: left;
+  font-size: 20;
+  color: black;
+}
+#quote {
+  font-style: italic;
+}
 h1 {
-  font-size: 44px
+  font-size: 44px;
 
 }
 
-p {
+main p {
 
-  color: red
+  color: darkorange;
+
 }
-ul {
+ul ul {
   font-size: 22;
-  color: blue
+  color: darkblue;
 }
 
-.headings {
-  font-size: 34
+.Heading {
+  font-size: 34;
+  color: darkgreen;
 }
