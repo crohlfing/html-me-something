@@ -6,6 +6,7 @@ body {
 
 main {
   margin-left: 100;
+  padding-left: 100;
   background-color: lightgreen;
   text-align: left;
   font-size: 20;
